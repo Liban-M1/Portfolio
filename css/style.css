@@ -1,0 +1,9 @@
+body {
+    background-image: url("/images/Indieground_Holographic_Textures_05.jpg");
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
