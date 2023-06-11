@@ -1,5 +1,7 @@
+
+// Intro video
 document.addEventListener("DOMContentLoaded", function() {
-    var video = document.getElementById("fs-video");
+    const video = document.getElementById("fs-video");
     video.style.display = "block"; 
   
     setTimeout(function() {
