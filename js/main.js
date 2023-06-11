@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // Typing effect
 document.addEventListener("DOMContentLoaded", function() {
 const heading = document.getElementById("typing-effect");
-const text = "Welcome To My Portfolio";
+const text = "Welcome To My Portfolio!";
 let index = 0;
 
 function type() {
