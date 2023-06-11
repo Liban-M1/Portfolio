@@ -1,6 +1,6 @@
-@font-face {
-    font-family: "Gasoek One";
-    src: url(/font/GasoekOne-Regular.ttf) format("truetype");
+* {
+    font-family: default;
+    font-weight: 500;
 }
 
 body {
@@ -41,10 +41,10 @@ section {
 }
 
 .title {
-    
+    font-family: 'Monoton', cursive;
     font-size: 5em;
     text-align: center;
-    
+    text-align: space-between;
 }
 
 
@@ -140,7 +140,7 @@ section {
 
 .hero-content {
     flex: 1;
-    padding: 20px;
+    padding: 35px;
 }
 
 .hero-content h2 {
