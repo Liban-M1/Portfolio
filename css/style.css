@@ -147,12 +147,14 @@ section {
     margin: 10px;
     font-size: 2em;
     text-align: center;
+    color: white;
 }
 
 .hero-content p {
     margin: 10px 0;
     font-size: 1.2em;
     text-align: space-between;
+    color: white;
 }
 
 .memoji {
