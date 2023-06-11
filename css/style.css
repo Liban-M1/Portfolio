@@ -76,7 +76,7 @@ section {
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
     background-color: white;
-    width: 300px;
+    width: 380px;
     margin: 20px;
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
     
@@ -143,6 +143,18 @@ section {
     padding: 20px;
 }
 
+.hero-content h2 {
+    margin: 10px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.hero-content p {
+    margin: 10px 0;
+    font-size: 1.2em;
+    text-align: space-between;
+}
+
 .memoji {
     flex: 1;
     text-align: center;
@@ -151,4 +163,37 @@ section {
 
 .m1 {
     width: 100%;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.flink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+
+#typing-effect::after {
+    content: "|";
+    animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
 }
