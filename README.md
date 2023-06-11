@@ -64,4 +64,8 @@ Contact me
 
 ## Acknowledgments
 
----
+--- Intro video: https://spacetypegenerator.com/snap.html
+--- background image: https://indieground.net/product/holographic-textures/
+--- icons: https://fontawesome.com/
+--- fonts: https://fonts.google.com/specimen/Monoton?preview.text=Front-End%20Portfolio&preview.text_type=custom&category=Display, 
+
